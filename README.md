@@ -1,5 +1,5 @@
 - 👀 Cryptography, security, virtualization, retrocoding, low-level coding, OS internals and vulnerability research
-- 🌱 Currently learning CRYSTALS-Kyber
+- 🌱 Currently learning QKD
 - 📫 z80bd19@protonmail.com
 
 <!---
