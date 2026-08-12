@@ -1,5 +1,6 @@
-- 👀 Cryptography, security, virtualization, retrocoding, low-level coding, OS internals and vulnerability research
-- 🌱 Currently learning QKD
+- Just some things I used to be interested in before AI took the fun away.
+- Still enjoy retrocoding, reading ancient computer virus code and digging into small/educational operating systems.
+- Currently learning Latin and Ancient History to bring the fun back.
 - 📫 z80bd19@protonmail.com
 
 <!---
